@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgh_action_test=self.webpackChunkgh_action_test||[]).push([[4268],{9932:t=>{t.exports=JSON.parse('{"label":"hola","permalink":"/gh-action-test/blog/tags/hola","allTagsPath":"/gh-action-test/blog/tags","count":1,"unlisted":false}')}}]);

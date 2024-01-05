@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgh_action_test=self.webpackChunkgh_action_test||[]).push([[3557],{2379:t=>{t.exports=JSON.parse('{"permalink":"/gh-action-test/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
